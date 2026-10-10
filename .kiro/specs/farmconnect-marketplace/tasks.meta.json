@@ -1,0 +1,471 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Initialise monorepo structure and tooling": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573167829
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573186434
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573725212
+      }
+    ],
+    "2. Configure backend TypeScript and Express entry point": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573169537
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573735943
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576181016
+      }
+    ],
+    "3. Register global backend middleware": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573169654
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576201076
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576409146
+      }
+    ],
+    "4. Configure frontend Vite, Tailwind, and base layout": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573169829
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573189800
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573728643
+      }
+    ],
+    "5. Set up React Router v6 with route-level code splitting": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573169948
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573739472
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576862398
+      }
+    ],
+    "6. Initialise Zustand stores and Axios instance": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170091
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573742852
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576185580
+      }
+    ],
+    "7. Define all 13 Mongoose models": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170168
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576204765
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576413000
+      }
+    ],
+    "8.1 Write property test for password complexity rejection (P1)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170323
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576871933
+      }
+    ],
+    "9. Implement RBAC middleware and complete ProtectedRoute / RoleGuard": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170460
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576421177
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576858172
+      }
+    ],
+    "10. Build Login and Register pages": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170585
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576875821
+      }
+    ],
+    "11. Implement Farmer Profile service and routes": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170711
+      },
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791576879844
+      }
+    ],
+    "12. Build Farmer Profile Edit page": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170832
+      }
+    ],
+    "13. Implement Product service and routes": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573170963
+      }
+    ],
+    "14. Build Farmer Product management pages": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171087
+      }
+    ],
+    "15.1 Write property test for search AND composition (P12)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171214
+      }
+    ],
+    "15.2 Write property test for pagination result window (P13)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171344
+      }
+    ],
+    "16. Build Product List and Detail pages (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171431
+      }
+    ],
+    "17.1 Write property test for cart quantity invariant (P2)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171630
+      }
+    ],
+    "17.2 Write property test for server-side cart total correctness (P3)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171704
+      }
+    ],
+    "18. Build Cart page (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171762
+      }
+    ],
+    "19.1 Write property test for checkout atomic inventory decrement (P4)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171820
+      }
+    ],
+    "19.2 Write property test for order total = price-snapshot sum (P5)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573171970
+      }
+    ],
+    "19.3 Write property test for Farmer order status transition validity (P15)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172035
+      }
+    ],
+    "20. Build Checkout and Order tracking pages (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172092
+      }
+    ],
+    "21.1 Write property test for price comparison sort correctness (P6)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172152
+      }
+    ],
+    "21.2 Write property test for price comparison total calculation (P7)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172214
+      }
+    ],
+    "22. Build Compare page (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172333
+      }
+    ],
+    "23.1 Write property test for review eligibility gate (P9)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172456
+      }
+    ],
+    "23.2 Write property test for average rating consistency (P10)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172520
+      }
+    ],
+    "24. Implement Favorites service and routes (backend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172583
+      }
+    ],
+    "25. Build Favorites page (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172642
+      }
+    ],
+    "26.1 Write property test for notification unread count invariant (P14)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172702
+      }
+    ],
+    "27. Build Notifications panel (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573172842
+      }
+    ],
+    "28.1 Write property test for group buy discounted price constraint (P8)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573173089
+      }
+    ],
+    "29. Build Group Buy pages (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573173438
+      }
+    ],
+    "30.1 Write property test for i18n fallback completeness (P11)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573173750
+      }
+    ],
+    "31. Integrate language switcher into Navbar": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573174124
+      }
+    ],
+    "32. Implement Easy Mode toggle and step-form scaffolding": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573174471
+      }
+    ],
+    "33. Implement voice guidance (Web Speech API)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573174743
+      }
+    ],
+    "34. Checkpoint — Easy Mode and i18n integration": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573175015
+      }
+    ],
+    "35. Implement Admin services and routes (backend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573175220
+      }
+    ],
+    "36. Build Admin dashboard and management pages (frontend)": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573175360
+      }
+    ],
+    "37. Audit and fix accessibility across all pages": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573175495
+      }
+    ],
+    "38. Set up Vitest and fast-check for backend": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573175565
+      }
+    ],
+    "39. Write backend unit tests for all service modules": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573175631
+      }
+    ],
+    "40. Consolidate and run all property-based tests": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573175904
+      }
+    ],
+    "41. Write frontend component and store tests": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573176169
+      }
+    ],
+    "42. Write integration tests": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573176522
+      }
+    ],
+    "43. Checkpoint — all tests passing": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573176868
+      }
+    ],
+    "44. Write database seeding script": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573177377
+      }
+    ],
+    "45. Add deployment configuration files": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573177910
+      }
+    ],
+    "46. Write root README and environment variable templates": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573178364
+      }
+    ],
+    "47. Final checkpoint": [
+      {
+        "executionId": "95dfcade-2f74-4444-9f99-eeb0a1e92245",
+        "chatSessionId": "sess_1bdc82ff-296e-42b1-96d1-544329471349",
+        "timestamp": 1791573178562
+      }
+    ]
+  }
+}
